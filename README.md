@@ -1,4 +1,4 @@
-# 🧠 Obesity Level Classification using Machine Learning
+# ⚕️ Obesity Level Classification using Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white"/>
